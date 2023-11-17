@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+
+}
+body{
+    background-color:#ffffff;
+}
+
+/* ------Media Queries--------------- */
+@media screen and (max-width:1280px) and (min-width:1080px){
+
+
+    html{
+        width:100%;
+    }
+    body{
+        width: 100%;
+    }
+
+
+
+}

@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+
+}
+body{
+    background-color:#ffca4b;
+    
+}
+
+
+@media screen and (min-width:1680px) and (max-width:1920px){
+
+    html{
+        width:100%;
+    }
+    body{
+        width: 100%;
+    }
+
+
+
+}
+
